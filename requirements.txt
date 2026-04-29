@@ -1,0 +1,8 @@
+# Compatible Python version: >= 3.8, < 3.13 (recommended: 3.10.x or 3.11.x)
+# Windows only — winsound is a built-in Windows standard library module (no install needed)
+# Install with: pip install -r requirements_main.txt
+
+ultralytics==8.4.38
+opencv-python==4.13.0.92
+requests==2.33.1
+numpy==2.4.4
